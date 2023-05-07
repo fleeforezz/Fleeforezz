@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #171515;
+    min-height: 100vh;  
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.leave-img {
+    width: 70px;
+    height: 70px;
+}
+
+.logo {
+    position: static;
+    color: white;
+    font-size: 40px;
+    margin-left: 20px;
+    margin-right: 500px;
+}
+
+.navigation a {
+    position: static;
+    text-decoration: none;
+    color: aquamarine;
+    border: 3px solid white;
+    border-radius: 180px;
+    padding: 6px 15px;
+    margin: 0 10px;
+    font-weight: 600;
+}
+
+.navigation a:hover, 
+.navigation a.active{
+    background: aquamarine;
+    box-shadow: 10px 6px 50px 1px aquamarine;
+    color: black;
+}
+
+.text{
+    margin-top: 445px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    color: white;
+}
+span {
+    margin-left: 10px;
+    color: aquamarine;
+}
+
+.leaf2 {
+    position: absolute;
+    top: -40px;
+    left: 1420px;
+    width: 25%;
+    pointer-events: fill;
+}
+
+.leaf3 {
+    position: absolute;
+    left: -55px;
+    top: 600px;
+
+}
+
+.sec {
+    top: 43vh;
+    position: relative;
+    background-color: white;
+    padding: 100px;
+}
+
+.sec h2 {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    margin-bottom: 3em;
+}
+
+.para-about-me {
+    text-align: center;
+    font-size: 2em;
+}
+
+
