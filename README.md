@@ -1,3 +1,2 @@
 # Fleeforezz
-# About
-This is a Fleeforezz Homepage
+Fleeforezz is a seft host web page created by Trương Minh Nhật
