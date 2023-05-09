@@ -18,5 +18,5 @@ cd Fleeforezz
 ```
 docker-compose up -d
 ```
-# 🐞Issues
+# 🐞Issues:
 If there are any problem while installing and using, please report for us to fix it as soon as we can.
