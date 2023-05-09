@@ -10,5 +10,11 @@ sudo apt install git
 ```
 git clone https://github.com/fleeforezz/Fleeforezz.git
 ```
-> Open the file just download
-
+> Open Fleeforezz file
+```
+cd Fleeforezz
+```
+> run docker-compose.yml file
+```
+docker-compose up -d
+```
