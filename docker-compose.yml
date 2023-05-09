@@ -3,4 +3,6 @@ services:
   web:
     build: .
     ports:
-      - "80"
+      - "8080:80"
+    volumes:
+      - .:/code
