@@ -6,7 +6,9 @@ Fleeforezz is a seft host web page created by Trương Minh Nhật 🔥
 ```
 sudo apt install git 
 ```
-> install files from github 
+> Install files from github 
 ```
 git clone https://github.com/fleeforezz/Fleeforezz.git
 ```
+> Open the file just download
+
