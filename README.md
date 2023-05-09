@@ -14,7 +14,7 @@ git clone https://github.com/fleeforezz/Fleeforezz.git
 ```
 cd Fleeforezz
 ```
-> run docker-compose.yml file
+> Run docker-compose.yml file
 ```
 docker-compose up -d
 ```
