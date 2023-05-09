@@ -18,5 +18,7 @@ cd Fleeforezz
 ```
 docker-compose up -d
 ```
+If everything are setting correctly 💎 It's ready for spinning up the Webpage. Go to http://yourip:8080/Home.html To start 🌟
+
 # 🐞Issues:
 If there are any problem while installing and using, please report for us to fix it as soon as we can.
