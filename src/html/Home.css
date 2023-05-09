@@ -51,6 +51,7 @@ header {
     background: aquamarine;
     box-shadow: 10px 6px 50px 1px aquamarine;
     color: black;
+    transition-duration: 500ms;
 }
 
 .text{
