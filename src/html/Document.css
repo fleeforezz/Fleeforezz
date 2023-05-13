@@ -9,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #171515;
-    min-height: fit-content;
+    min-height: 100vh;
 }
 header {
     position: absolute;
@@ -35,6 +35,26 @@ header {
     margin-right: 500px;
 }
 
+                                            /*Scroll Bar*/
+/* Width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background: #171515;  
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgb(53, 53, 53);
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
 .navigation a {
     position: static;
     text-decoration: none;
@@ -51,6 +71,7 @@ header {
     background: aquamarine;
     box-shadow: 10px 6px 50px 1px aquamarine;
     color: black;
+    transition-duration: 500ms;
 }
 
 .text{
@@ -64,15 +85,11 @@ header {
 
 .leaf2 {
     position: fixed;
-    top: 0;
-    left: 1460px;
+    top: -40px;
+    left: 1420px;
     width: 25%;
-    pointer-events: fill;
+    transition-duration: 500ms;
 }
-
-.leaf3 {
-    position: fixed;
-    left: -55px;
-    top: 600px;
-
+.leaf2:hover {
+    transform: translateX(50px);
 }
