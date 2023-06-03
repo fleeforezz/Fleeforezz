@@ -93,22 +93,21 @@ span {
     left: 1420px;
     width: 25%;
     pointer-events: fill;
-    transition-duration: 500ms;
+    animation: leaf2 2s infinite alternate;
 }
-.leaf2:hover {
-    transform: translate(50px);
+@keyframes leaf2 {
+    100% { transform: translate(10px, -20px);}
 }
 
 .leaf3 {
     position: fixed;
     left: -55px;
     top: 600px;
-    transition-duration: 500ms;
+    animation: leaf3 2s infinite alternate;
 }
-.leaf3:hover {
-    transform: translateY(50px);
+@keyframes leaf3 {
+    100% { transform: translate(10px, 20px); }
 }
-
 .sec {
     top: 43vh;
     position: relative;
