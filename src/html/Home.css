@@ -127,9 +127,15 @@ span {
 }
 
 .rows::after {
-    content: "";
+    content: " ";
     display: table;
     clear: both;
+}
+
+.footer {
+    text-align: center;
+    background-color: #555;
+    padding: 15px;
 }
 
 @media screen and (max-width: 1650px) {
