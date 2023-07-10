@@ -94,6 +94,7 @@ span {
     left: 1420px;
     width: 25%;
     pointer-events: fill;
+    z-index: -1;
     animation: leaf2 2s infinite alternate;
 }
 @keyframes leaf2 {
@@ -104,30 +105,31 @@ span {
     position: fixed;
     left: -55px;
     top: 600px;
+    z-index: -1;
     animation: leaf3 2s infinite alternate;
 }
 @keyframes leaf3 {
     100% { transform: translate(10px, 20px); }
 }
+
 .sec {
-    top: 43vh;
-    position: relative;
+    text-align: center;
+    margin-top: 500px;
+    color: #171515;
     background-color: white;
-    padding: 100px;
+    padding: 50px 0px 1000px 0px;
 }
 
-.sec h2 {
-    text-align: center;
-    font-size: 3em;
-    color: black;
-    margin-bottom: 3em;
+.column {
+    float: left;
+    width: 20%;
+    padding: 15px;
 }
 
-.para-about-me {
-    position: relative;
-    text-align: center;
-    font-size: 2em;
-    padding-bottom: 10000px;
+.rows::after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 @media screen and (max-width: 1650px) {
