@@ -87,8 +87,8 @@ span {
     color: aquamarine;
 }
 
-.leaf2 {
-    position: fixed;
+#leaf2 {
+    position: absolute;
     top: -40px;
     left: 1420px;
     width: 25%;
@@ -100,8 +100,8 @@ span {
     100% { transform: translate(10px, -20px);}
 }
 
-.leaf3 {
-    position: fixed;
+#leaf3 {
+    position: absolute;
     left: -55px;
     top: 600px;
     z-index: -1;
