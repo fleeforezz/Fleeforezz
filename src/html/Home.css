@@ -9,7 +9,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #171515;
-    min-height: 100vh;
 }
 header {
     position: absolute;
@@ -17,7 +16,8 @@ header {
     left: 0;
     width: 100%;
     padding: 30px 100px;
-    display: flex;
+    display: inline-flex;
+    flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
 }
