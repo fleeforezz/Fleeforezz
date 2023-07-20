@@ -111,24 +111,44 @@ span {
     100% { transform: translate(10px, 20px); }
 }
 
-.sec {
+.sec h1 {
     text-align: center;
-    margin-top: 500px;
-    color: #171515;
+}
+.sec {
     background-color: white;
     padding: 50px 0px 1000px 0px;
+    margin-top: 500px;
+    color: #171515;
 }
 
-.column {
-    float: left;
-    width: 20%;
-    padding: 15px;
+.grid {
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px; 
+    column-gap: 100px;
+    margin-top: 150px;
+    justify-content: center;
 }
 
-.rows::after {
-    content: "";
-    display: table;
-    clear: both;
+.grid-items {
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    color: black;
+    box-shadow:
+    1px 25px 30px rgb(147, 253, 255),
+    1px 3px 30px rgb(89, 255, 211);
+}
+.grid-items h3 {
+    font-size: 1.6rem;
+    display: inline-flex;
+    margin: 0 0 18px 0;
+}
+.grid-items:hover {
+    cursor: pointer;
+}
+.grid-items img {
+    width: 100%;
+    border-radius: 16px;
 }
 
 .footer {
