@@ -135,7 +135,7 @@ span {
     border-radius: 16px;
     color: black;
     box-shadow:
-    1px 25px 30px rgb(147, 253, 255),
+    1px 2px 30px rgb(147, 253, 255),
     1px 3px 30px rgb(89, 255, 211);
 }
 .grid-items h3 {
