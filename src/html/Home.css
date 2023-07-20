@@ -157,6 +157,11 @@ span {
     padding: 15px;
 }
 
+.projects {
+    text-decoration: none;
+    color: rgb(247, 26, 147);
+}
+
 @media screen and (max-width: 1650px) {
     .leave-img {
         width: 35px;
