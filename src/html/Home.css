@@ -89,26 +89,16 @@ span {
 
 #leaf2 {
     position: absolute;
-    top: -40px;
-    left: 1420px;
-    width: 25%;
-    pointer-events: fill;
+    transform: translate(1250px, -50px);
+    pointer-events: none;
     z-index: -1;
-    animation: leaf2 2s infinite alternate;
-}
-@keyframes leaf2 {
-    100% { transform: translate(10px, -20px);}
 }
 
 #leaf3 {
     position: absolute;
-    left: -55px;
-    top: 600px;
+    transform: translate(0px, 500px);
+    pointer-events: none;
     z-index: -1;
-    animation: leaf3 2s infinite alternate;
-}
-@keyframes leaf3 {
-    100% { transform: translate(10px, 20px); }
 }
 
 .sec h1 {

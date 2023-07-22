@@ -28,7 +28,8 @@ let leaf3 = document.getElementById("leaf3");
 window.addEventListener('scroll', () => {
     let value = window.scrollY;
 
-    leaf2.style.top = value * -1.5 + 'px';
-    leaf2.style.left = value * 1.5 + 'px';
-    leaf3.style.marginBottom = value * 2.5+ 'px';
+    leaf2.style.top = value * -0.5 + 'px';
+    leaf2.style.left = value * 0.5 + 'px';
+    leaf3.style.top = value * 0.5 + 'px';
+    leaf3.style.left = value * -0.5 + 'px';
 });
