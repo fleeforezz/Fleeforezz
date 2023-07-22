@@ -24,6 +24,8 @@ http.createServer(function (req, res) {
 
 let leaf2 = document.getElementById("leaf2");
 let leaf3 = document.getElementById("leaf3");
+let grid = document.getElementById("grid");
+let content = document.getElementById("content");
 
 window.addEventListener('scroll', () => {
     let value = window.scrollY;
@@ -32,6 +34,8 @@ window.addEventListener('scroll', () => {
     leaf2.style.left = value * 0.5 + 'px';
     leaf3.style.top = value * 0.5 + 'px';
     leaf3.style.left = value * -0.5 + 'px';
+    grid.style.marginLeft = value * 0.2 + 'px';
+    content.style.marginRight = value * 0.2 + 'px';
 });
 
 window.onscroll = function() {
