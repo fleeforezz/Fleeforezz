@@ -33,3 +33,16 @@ window.addEventListener('scroll', () => {
     leaf3.style.top = value * 0.5 + 'px';
     leaf3.style.left = value * -0.5 + 'px';
 });
+
+window.onscroll = function() {
+    scrollFunction();
+}
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("return-to-top").style.left = "0";
+    }
+    else {
+        document.getElementById("return-to-top").style.left = "150px";
+    }
+}
