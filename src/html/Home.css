@@ -84,7 +84,13 @@ header {
 }
 span {
     margin-left: 10px;
-    color: aquamarine;
+    background-image: linear-gradient(45deg, rgb(54, 255, 225), rgb(133, 133, 255));
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-decoration-color: transparent;
 }
 
 #leaf2 {
