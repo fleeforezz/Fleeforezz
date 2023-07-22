@@ -134,17 +134,21 @@ span {
     padding: 20px;
     border-radius: 16px;
     color: black;
+    transition: all 0.3s;
     box-shadow:
-    1px 2px 30px rgb(147, 253, 255),
-    1px 3px 30px rgb(89, 255, 211);
+    6px 6px 12px #c5c5c5,
+    -6px -6px 12px #fff;
+}
+.grid-items:hover {
+    box-shadow: 
+    -6px -6px 12px #c5c5c5,
+    6px 6px 12px #fff;
+    cursor: pointer;
 }
 .grid-items h3 {
     font-size: 1.6rem;
     display: inline-flex;
     margin: 0 0 18px 0;
-}
-.grid-items:hover {
-    cursor: pointer;
 }
 .grid-items img {
     width: 100%;
