@@ -6,7 +6,7 @@
 </header>
 
 <!--Greeting-->
-<h1>
+<h1 align="center">
     Yo👋 I'm Nhat, I love 
         <span style="
         background-image: linear-gradient(45deg, rgb(178, 146, 248), #2491d9);
