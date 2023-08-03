@@ -1,7 +1,12 @@
 <!--![Header image](./header.png)-->
+
+<header>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C4FF,100:4FFFDF&height=300&section=header&text=Hi%20There🦖&fontSize=90)
-# I'm Nhat, I'm build and custom stuff 🎨
-<br>
+
+</header>
+
+<h2> I'm Nhat, I'm build and custom stuff 🎨 </h2>
 
 <table width="100%">
   <tr>
@@ -15,5 +20,4 @@
 &nbsp; <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
   </td>
-
 </table>
