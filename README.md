@@ -27,42 +27,42 @@
 
 <table width="100%">
     <tr>
-        <td align="center">
+        <td align="center" width="15%">
             <img src="https://skillicons.dev/icons?i=html" width="65" height="48" alt="HTML" />
             <br> HTML
         </td>
-        <td align="center">
+        <td align="center" width="15%">
             <img src="https://skillicons.dev/icons?i=css" width="65" height="48" alt="css" />
             <br> CSS
         </td>
-        <td align="center">
+        <td align="center" width="15%">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
             <br> JavaScript
         </td>
-        <td align="center">
+        <td align="center" width="15%">
             <img src="https://skillicons.dev/icons?i=linux" width="65" height="48" 
             alt="Linux" />
             <br> Linux
         </td>
-        <td align="center">
+        <td align="center" width="15%">
             <img src="https://skillicons.dev/icons?i=git" width="65" height="48" alt="Git" />
             <br> Git
         </td>
     </tr>
     <tr width="100%">
-        <td algin="center">
+        <td algin="center" width="15%">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             <br> Docker
         </td>
-        <td algin="center">
+        <td algin="center" width="15%">
             <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
             <br> Kubernetes
         </td>
-        <td algin="center">
+        <td algin="center" width="15%">
             <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
             <br> Nginx
         </td>
-        <td algin="center">
+        <td algin="center" width="15%">
             <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
             <br> Java
         </td>
