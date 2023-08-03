@@ -28,29 +28,17 @@
         </span> things colorful 🎨
 </h1>
 
-<h3>
+<h3 align="center">
     How to contact me 🤔
     <br><br>
-    <a style="
-    padding: 3px 20px;
-    background: #2077FF;
-    color: #FFF;
-    font-size: 80%;
-    "href="https://www.facebook.com/profile.php?id=100091778170480"> Facebook
+    <a href="https://www.facebook.com/profile.php?id=100091778170480">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a style="
-    padding: 3px 20px;
-    background-image: linear-gradient(150deg, #494DED, #FD5636, #FDCE36);
-    color: #FFF;
-    font-size: 80%;
-    "href="https://www.instagram.com/tmn_nhat/"> Instagram
+    <a href="https://www.instagram.com/tmn_nhat/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a style="
-    padding: 3px 20px;
-    background: #3A7AD1;
-    color: #FFF;
-    font-size: 80%;
-    "href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/"> Linkedin
+    <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </h3>
 
