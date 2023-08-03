@@ -10,6 +10,7 @@
     Yo👋 I'm Nhat, I love <b>Build</b> and <b>Make</b> things colorful 🎨
 </h1>
 
+<!--Contact-->
 <h3 align="center">
     How to contact me 🤔
     <br><br>
