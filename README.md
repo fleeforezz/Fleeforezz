@@ -7,25 +7,7 @@
 
 <!--Greeting-->
 <h1 align="center">
-    Yo👋 I'm Nhat, I love 
-        <span style="
-        background-image: linear-gradient(45deg, rgb(178, 146, 248), #2491d9);
-        background-size: 100%;
-        background-repeat: repeat;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent; 
-        -moz-background-clip: text;
-        -moz-text-fill-color: transparent;"> Build
-        </span> and 
-        <span style="
-        background-image: linear-gradient(45deg, rgb(54, 242, 255), rgb(133, 255, 176));
-        background-size: 100%;
-        background-repeat: repeat;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        -moz-background-clip: text;
-        -moz-text-decoration-color: transparent;"> Make
-        </span> things colorful 🎨
+    Yo👋 I'm Nhat, I love <b>Build</b> and <b>Make</b> things colorful 🎨
 </h1>
 
 <h3 align="center">
