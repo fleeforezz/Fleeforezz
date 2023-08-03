@@ -2,11 +2,13 @@
 
 <header>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C4FF,100:4FFFDF&height=300&section=header&text=Hi%20There🦖&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C4FF,100:4FFFDF&height=300&section=header&text=YEET🧪&fontSize=90)
 
 </header>
 
-<h2> I'm Nhat, I'm build and custom stuff 🎨 </h2>
+<h1>
+    I'm Nhat, I love <strong>build</strong> and <strong>custom</strong> stuff 🎨
+</h1>
 
 <table width="100%">
  <tr>
@@ -23,7 +25,9 @@
  </tr>
 </table>
 
-<h1> Tools i used to develop </h1>
+<h1> 
+    Tools i used to develop 💪 
+</h1>
 
 <table width="100%">
     <tr>
