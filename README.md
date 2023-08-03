@@ -15,7 +15,7 @@
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent; 
         -moz-background-clip: text;
-        -moz-text-fill-color: transparent;}"> Build
+        -moz-text-fill-color: transparent;"> Build
         </span> and 
         <span style="
         background-image: linear-gradient(45deg, rgb(54, 242, 255), rgb(133, 255, 176));
@@ -28,12 +28,38 @@
         </span> things colorful 🎨
 </h1>
 
+<h3>
+    How to contact me 🤔
+    <br><br>
+    <a style="
+    padding: 3px 20px;
+    background: #2077FF;
+    color: #FFF;
+    font-size: 80%;
+    "href="https://www.facebook.com/profile.php?id=100091778170480"> Facebook
+    </a>
+    <a style="
+    padding: 3px 20px;
+    background-image: linear-gradient(150deg, #494DED, #FD5636, #FDCE36);
+    color: #FFF;
+    font-size: 80%;
+    "href="https://www.instagram.com/tmn_nhat/"> Instagram
+    </a>
+    <a style="
+    padding: 3px 20px;
+    background: #3A7AD1;
+    color: #FFF;
+    font-size: 80%;
+    "href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/"> Linkedin
+    </a>
+</h3>
+
 <!--Stat & Spotify dash-->
 <table width="100%">
  <tr>
    <td width="50%">
 
-&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317mmez3p642s7bangddhiopxeua&cover_image=true&theme=natemoo-re&show_offline=false&background_color=141414&interchange=true&bar_color=594eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317mmez3p642s7bangddhiopxeua&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=8e52ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
    </td>
    <td width="50%">
