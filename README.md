@@ -1,10 +1,9 @@
 <!--![Header image](./header.png)-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:76C4FF,100:4FFFDF&height=300&section=header&text=Hi%20There🦖&fontSize=90)
 # I'm Nhat, I'm build and custom stuff 🎨
+<br>
 
-
-
-<table width="100%">
+<table width="100%" style="border: none;">
   <tr>
   <td width="50%">
 
