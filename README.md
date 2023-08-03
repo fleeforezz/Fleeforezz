@@ -3,7 +3,7 @@
 # I'm Nhat, I'm build and custom stuff 🎨
 <br>
 
-<table width="100%" style="border: none;">
+<table width="100%" border: none>
   <tr>
   <td width="50%">
 
