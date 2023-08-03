@@ -7,7 +7,7 @@
 
 <!--Greeting-->
 <h1 align="center">
-    Yo👋 I'm Nhat, I love <b>Build</b> and <b>Make</b> things colorful 🎨
+    Yo!👋 I'm Nhat, I love <b>Building</b> and <b>Making</b> things colorful 🎨
 </h1>
 
 <!--Contact-->
