@@ -45,7 +45,7 @@
 <h1> 
     Tools i used to develop 💪 
 </h1>
-
+<table>
 <table width="100%">
     <tr>
         <td align="center" width="15%">
@@ -89,6 +89,4 @@
         </td>
     </tr>
 </table>
-
- </tr>
 </table>
