@@ -45,7 +45,7 @@
 <h1> 
     Tools i used to develop 💪 
 </h1>
-<table>
+
 <table width="100%">
     <tr>
         <td align="center" width="15%">
@@ -88,5 +88,4 @@
             <br> Java
         </td>
     </tr>
-</table>
 </table>
