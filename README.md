@@ -87,5 +87,9 @@
             <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
             <br> Java
         </td>
+        <td algin="center" width="15%">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+            <br> MySQL
+        </td>
     </tr>
 </table>
