@@ -93,3 +93,25 @@
         </td>
     </tr>
 </table>
+
+<!-- Favorite project -->
+<h1>
+    Take a look to my favorite projects
+</h1>
+
+<table width="100%">
+ <tr>
+   <td width="50%">
+
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Portfolio&theme=nightowl)](https://github.com/fleeforezz/Portfolio)
+
+   </td>
+   <td width="50%">
+
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Contact_page&theme=rose_pine)](https://github.com/fleeforezz/Portfolio)
+
+   </td>
+ </tr>
+</table>
+
+
