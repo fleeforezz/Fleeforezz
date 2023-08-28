@@ -96,7 +96,7 @@
 
 <!-- Favorite project -->
 <h1>
-    Take a look at my favorite projects
+    ✨ Take a look at my favorite projects ✨
 </h1>
 
 <table width="100%">
