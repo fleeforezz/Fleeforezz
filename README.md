@@ -93,3 +93,8 @@
         </td>
     </tr>
 </table>
+
+<!-- Favorite project -->
+<h1>
+    Take a look to my favorite projects
+</h1>
