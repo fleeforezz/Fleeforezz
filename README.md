@@ -111,5 +111,10 @@
 &nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Contact_page&theme=rose_pine)](https://github.com/fleeforezz/Contact_Page)
 
    </td>
+   <td width="50%">
+
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Portfolio&theme=ocean_dark)](https://github.com/fleeforezz/Project_Page)
+
+   </td>
  </tr>
 </table>
