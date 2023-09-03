@@ -108,7 +108,7 @@
    </td>
    <td width="50%">
 
-&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Contact_page&theme=rose_pine)](https://github.com/fleeforezz/Portfolio)
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Contact_page&theme=rose_pine)](https://github.com/fleeforezz/Contact_Page)
 
    </td>
  </tr>
