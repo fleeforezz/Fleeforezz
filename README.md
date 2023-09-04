@@ -115,7 +115,7 @@
  <tr>
    <td width="50%">
 
-&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Project_Page&theme=date_night)](https://github.com/fleeforezz/Project_Page)
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Project_Page&theme=neon)](https://github.com/fleeforezz/Project_Page)
 
    </td>
  </tr>
