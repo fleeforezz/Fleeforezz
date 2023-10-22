@@ -106,17 +106,5 @@
 &nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Portfolio&theme=nightowl)](https://github.com/fleeforezz/Portfolio)
 
    </td>
-   <td width="50%">
-
-&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Contact_page&theme=rose_pine)](https://github.com/fleeforezz/Contact_Page)
-
-   </td>
- </tr>
- <tr>
-   <td width="50%">
-
-&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Project_Page&theme=neon)](https://github.com/fleeforezz/Project_Page)
-
-   </td>
  </tr>
 </table>
