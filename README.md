@@ -1,10 +1,10 @@
 <!--Header-->
-<header align="center">
+<h1 align="center">
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=0:76C4FF,100:4FFFDF&height=300&section=header&text=YEET&fontSize=90) -->
 ![test](https://64.media.tumblr.com/ce237ad7762fc6bce812f5f47f499d76/215844a9b980cfd1-b8/s1280x1920/7acfce390ffb6e00a0b8f0dce34b0c0169943001.gifv)
 
-</header>
+</h1>
 
 <!--Greeting-->
 <h1 align="center">
