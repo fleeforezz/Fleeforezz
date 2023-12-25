@@ -2,7 +2,7 @@
 <h1 align="center">
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=0:76C4FF,100:4FFFDF&height=300&section=header&text=YEET&fontSize=90) -->
-![test](https://64.media.tumblr.com/ce237ad7762fc6bce812f5f47f499d76/215844a9b980cfd1-b8/s1280x1920/7acfce390ffb6e00a0b8f0dce34b0c0169943001.gifv)
+![test](https://i.pinimg.com/originals/09/01/43/0901434384290893f3f67b1065855d60.gif)
 
 </h1>
 
@@ -15,16 +15,16 @@
 <h3 align="center">
     How to contact me 🤔
     <br><br>
-    <a href="https://www.facebook.com/profile.php?id=100091778170480" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100091778170480">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/tmn_nhat/" target="_blank">
+    <a href="https://www.instagram.com/tmn_nhat/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/" target="_blank">
+    <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://fleeforezz.me" target="_blank">
+    <a href="https://fleeforezz.me">
         <img src="https://img.shields.io/badge/🦄 Portfolio-e0e0e0?style=for-the-badge&logo=&logoColor=080A13">
     </a>
 </h3>
