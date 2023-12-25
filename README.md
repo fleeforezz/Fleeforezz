@@ -101,6 +101,10 @@
             <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github-light.png" alt="icon" width="65" height="65" />
             <br> Github
         </td>
+        <td algin="center" width="15%">
+            <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="icon" width="65%" height="65%" />
+            <br> Github
+        </td>
     </tr>
 </table>
 
