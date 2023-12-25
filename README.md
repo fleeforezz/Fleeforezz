@@ -96,6 +96,12 @@
             <br> MySQL
         </td>
     </tr>
+    <tr width="100%">
+        <td algin="center" width="15%">
+            <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/github-light.png" alt="icon" width="65" height="65" />
+            <br> Github
+        </td>
+    </tr>
 </table>
 
 <!-- Favorite project -->
@@ -108,6 +114,11 @@
    <td width="50%">
 
 &nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Portfolio&theme=nightowl)](https://github.com/fleeforezz/Portfolio)
+
+   </td>
+   <td width="50%">
+
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Work_place&theme=algolia)](https://github.com/fleeforezz/Work_place)
 
    </td>
  </tr>
