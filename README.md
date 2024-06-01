@@ -112,7 +112,7 @@
    </td>
    <td width="50%">
 
-&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Work_place&theme=algolia)](https://github.com/fleeforezz/Work_place)
+&nbsp; <br> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fleeforezz&repo=Jso_Blog&theme=algolia)](https://github.com/fleeforezz/Work_place)
 
    </td>
  </tr>
