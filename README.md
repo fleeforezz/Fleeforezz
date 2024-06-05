@@ -15,16 +15,16 @@
 <h3 align="center">
     How to contact me 🤔
     <br><br>
-    <a href="https://www.facebook.com/profile.php?id=100091778170480" target"_blank">
+    <a href="https://www.facebook.com/profile.php?id=100091778170480" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/tmn_nhat/" target"_blank">
+    <a href="https://www.instagram.com/tmn_nhat/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/" target"_blank">
+    <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://fleeforezz.me" target"_blank">
+    <a href="https://fleeforezz.me" target="_blank">
         <img src="https://img.shields.io/badge/🦄 Portfolio-e0e0e0?style=for-the-badge&logo=&logoColor=080A13">
     </a>
 </h3>
