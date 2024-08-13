@@ -1,6 +1,6 @@
 # Hi There👋
 
-<p>This is the place where i store my source code🗃️</p>
+This is the place where i store my source code🗃️
 <ul>
     <li>🔭I'm currently working on Devops projects</li>
     <li>🌿I'm currently learning Kubernetes and Ansible</li>
