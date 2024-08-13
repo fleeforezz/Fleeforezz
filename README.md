@@ -26,13 +26,13 @@ This is the place where i store my source code🗃️
    <td width="50%">
 
 <!-- &nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317mmez3p642s7bangddhiopxeua&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=8e52ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
-<img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
+<img height=fit-content width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
 
    </td>
    <td width="50%">
 
 <!-- &nbsp; <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
+<img height=fit-content align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
 
    </td>
  </tr>
