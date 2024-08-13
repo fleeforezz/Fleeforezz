@@ -14,7 +14,7 @@ This is the place where i store my source code🗃️
 
 > 📦 561.0 kB Used in GitHub's Storage 
  > 
-> 🏆 286 Contributions in the Year 2024
+> 🏆 285 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,10 +25,10 @@ This is the place where i store my source code🗃️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌆 Daytime                235 commits         ██████████░░░░░░░░░░░░░░░   40.38 % 
-🌃 Evening                196 commits         ████████░░░░░░░░░░░░░░░░░   33.68 % 
-🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+🌞 Morning                134 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+🌆 Daytime                237 commits         ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌃 Evening                196 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
+🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 
@@ -62,10 +62,6 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/fleeforezz/fleeforezz/main/assets/bar_graph.png)
-
-
- Last Updated on 13/08/2024 05:18:32 UTC
+ Last Updated on 13/08/2024 05:21:05 UTC
 <!--END_SECTION:waka-->
