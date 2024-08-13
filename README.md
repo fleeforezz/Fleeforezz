@@ -32,7 +32,7 @@ This is the place where i store my source code🗃️
    <td width="50%">
 
 <!-- &nbsp; <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
 
    </td>
  </tr>
