@@ -35,8 +35,8 @@ This is the place where i store my source code🗃️
 </table> -->
 
 <div>
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
 
 </div>
 
