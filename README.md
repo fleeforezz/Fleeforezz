@@ -4,10 +4,37 @@ This is the place where i store my source code🗃️
 <ul>
     <li>🔭I'm currently working on Devops projects</li>
     <li>🌿I'm currently learning Kubernetes and Ansible</li>
-    <li>📫How to reach me: </li>
     <li>✨My portfolio: <a href="https://fleeforezz.me" target="_blank">fleeforezz.me</a> </li>
     <li>I💖🐈s</li>
+    <li>📫How to reach me: </li>
+    <a href="https://www.facebook.com/profile.php?id=100091778170480" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/tmn_nhat/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-tr%C6%B0%C6%A1ng-420723278/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://fleeforezz.me" target="_blank">
+        <img src="https://img.shields.io/badge/🦄 Portfolio-e0e0e0?style=for-the-badge&logo=&logoColor=080A13">
+    </a>
 </ul>
+
+<table width="100%">
+ <tr>
+   <td width="50%">
+
+&nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317mmez3p642s7bangddhiopxeua&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=8e52ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+   </td>
+   <td width="50%">
+
+&nbsp; <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+   </td>
+ </tr>
+</table>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
