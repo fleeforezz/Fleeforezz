@@ -34,7 +34,7 @@ This is the place where i store my source code🗃️
  </tr>
 </table> -->
 
-<div style="display: flex;">
+<div style="display: inline-block;">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
 
