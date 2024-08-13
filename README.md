@@ -21,22 +21,24 @@ This is the place where i store my source code🗃️
     </a>
 </ul>
 
-<table width="100%">
+<!-- <table width="100%">
  <tr>
    <td width="75%">
-
-<!-- &nbsp; <br> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317mmez3p642s7bangddhiopxeua&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=8e52ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
 
    </td>
    <td width="25%">
-
-<!-- &nbsp; <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
 
    </td>
  </tr>
-</table>
+</table> -->
+
+<div style="display: flex;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
+
+</div>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
