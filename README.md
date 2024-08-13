@@ -1,4 +1,4 @@
-<p style="font-size:20px; font-weight: 100px;">Hi There👋</>
+<p style="font-size:20px;">Hi There👋</>
 
 <p>This is the place where i store my source code🗃️</p>
 <ul>
