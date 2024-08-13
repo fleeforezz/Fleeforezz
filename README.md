@@ -21,19 +21,6 @@ This is the place where i store my source code🗃️
     </a>
 </ul>
 
-<!-- <table width="100%">
- <tr>
-   <td width="75%">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
-
-   </td>
-   <td width="25%">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
-
-   </td>
- </tr>
-</table> -->
-
 <div>
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" />
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
