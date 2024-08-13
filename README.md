@@ -45,7 +45,7 @@ This is the place where i store my source code🗃️
 
 > 📦 561.0 kB Used in GitHub's Storage 
  > 
-> 🏆 285 Contributions in the Year 2024
+> 🏆 305 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,10 +56,10 @@ This is the place where i store my source code🗃️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                134 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-🌆 Daytime                237 commits         ██████████░░░░░░░░░░░░░░░   40.58 % 
-🌃 Evening                196 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+🌞 Morning                134 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌆 Daytime                254 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
+🌃 Evening                196 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 
@@ -67,9 +67,6 @@ This is the place where i store my source code🗃️
 
 ```text
 🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -94,5 +91,5 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2024 05:21:05 UTC
+ Last Updated on 13/08/2024 09:33:14 UTC
 <!--END_SECTION:waka-->
