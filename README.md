@@ -28,7 +28,7 @@ This is the place where i store my source code🗃️
 <br></br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,terraform,jenkins,gitlab,grafana,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx" />
   </a>
 </p>
 
