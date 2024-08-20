@@ -37,8 +37,6 @@ This is the place where i store my source code🗃️
 
 > 📦 561.0 kB Used in GitHub's Storage 
  > 
-> 🏆 313 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -75,5 +73,5 @@ Linux                    1 hr 26 mins        ███████░░░░�
 ```
 
 
- Last Updated on 19/08/2024 18:42:11 UTC
+ Last Updated on 20/08/2024 18:41:55 UTC
 <!--END_SECTION:waka-->
