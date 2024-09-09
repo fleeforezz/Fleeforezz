@@ -35,9 +35,7 @@ This is the place where i store my source code🗃️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 572.8 kB Used in GitHub's Storage 
- > 
-> 🏆 351 Contributions in the Year 2024
+> 📦 574.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,6 +43,32 @@ This is the place where i store my source code🗃️
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 08/09/2024 18:42:03 UTC
+```text
+🌞 Morning                145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+🌆 Daytime                271 commits         ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌃 Evening                214 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+🔥 Editors: 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+dotfiles                 1 hr 21 mins        █████████████████████░░░░   83.39 % 
+Terraform                16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+
+💻 Operating System: 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/09/2024 18:43:58 UTC
 <!--END_SECTION:waka-->
