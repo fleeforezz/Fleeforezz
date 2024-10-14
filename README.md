@@ -59,15 +59,15 @@ This is the place where i store my source code🗃️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bookery                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2024 18:43:47 UTC
+ Last Updated on 14/10/2024 18:45:34 UTC
 <!--END_SECTION:waka-->
