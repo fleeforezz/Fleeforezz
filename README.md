@@ -35,7 +35,7 @@ This is the place where i store my source code🗃️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 626.0 kB Used in GitHub's Storage 
+> 📦 626.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,10 +46,10 @@ This is the place where i store my source code🗃️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                192 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-🌆 Daytime                328 commits         ██████████░░░░░░░░░░░░░░░   40.15 % 
-🌃 Evening                274 commits         ████████░░░░░░░░░░░░░░░░░   33.54 % 
-🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+🌞 Morning                197 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌆 Daytime                328 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
+🌃 Evening                275 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
+🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 
 
@@ -59,15 +59,15 @@ This is the place where i store my source code🗃️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Work_place               13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/10/2024 18:45:33 UTC
+ Last Updated on 24/10/2024 18:45:49 UTC
 <!--END_SECTION:waka-->
