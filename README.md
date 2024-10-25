@@ -35,21 +35,23 @@ This is the place where i store my source code🗃️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 626.4 kB Used in GitHub's Storage 
+> 📦 650.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                197 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-🌆 Daytime                328 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌃 Evening                275 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+🌞 Morning                199 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌆 Daytime                332 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                276 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 
@@ -59,15 +61,17 @@ This is the place where i store my source code🗃️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Portfolio                2 hrs 8 mins        ███████████████████████░░   92.38 % 
+dotfiles                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 8 mins        ███████████████████████░░   92.38 % 
+Linux                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 
 
- Last Updated on 24/10/2024 18:45:49 UTC
+ Last Updated on 25/10/2024 18:45:20 UTC
 <!--END_SECTION:waka-->
