@@ -37,7 +37,7 @@ This is the place where i store my source code🗃️
 
 > 📦 753.5 kB Used in GitHub's Storage 
  > 
-> 🏆 451 Contributions in the Year 2024
+> 🏆 453 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,6 +45,31 @@ This is the place where i store my source code🗃️
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 10/11/2024 18:42:25 UTC
+```text
+🌞 Morning                212 commits         ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+🌆 Daytime                357 commits         ██████████░░░░░░░░░░░░░░░   40.43 % 
+🌃 Evening                289 commits         ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+🔥 Editors: 
+VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Portfolio                1 hr 59 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 11/11/2024 18:44:10 UTC
 <!--END_SECTION:waka-->
