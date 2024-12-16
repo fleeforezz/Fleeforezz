@@ -35,7 +35,7 @@ This is the place where i store my source code🗃️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 795.5 kB Used in GitHub's Storage 
+> 📦 795.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,5 +69,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/12/2024 18:45:38 UTC
+ Last Updated on 16/12/2024 18:49:03 UTC
 <!--END_SECTION:waka-->
