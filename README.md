@@ -37,6 +37,8 @@ This is the place where i store my source code🗃️
 
 > 📦 795.4 kB Used in GitHub's Storage 
  > 
+> 🏆 470 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -59,15 +61,15 @@ This is the place where i store my source code🗃️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bookery                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2024 18:49:03 UTC
+ Last Updated on 17/12/2024 18:49:24 UTC
 <!--END_SECTION:waka-->
