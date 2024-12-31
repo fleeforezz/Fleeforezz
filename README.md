@@ -37,6 +37,8 @@ This is the place where i store my source code🗃️
 
 > 📦 795.4 kB Used in GitHub's Storage 
  > 
+> 🏆 471 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -69,5 +71,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2024 18:44:49 UTC
+ Last Updated on 31/12/2024 18:43:51 UTC
 <!--END_SECTION:waka-->
