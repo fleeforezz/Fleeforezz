@@ -39,7 +39,7 @@ This is the place where i store my source code🗃️
  > 
 > 🏆 7 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Ready for work
  > 
 > 📜 20 Public Repositories 
  > 
