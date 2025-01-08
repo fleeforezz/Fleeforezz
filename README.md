@@ -4,7 +4,7 @@ This is the place where i store my source code🗃️
 <ul>
     <li>🔭I'm currently working on Devops projects</li>
     <li>🌿I'm currently learning Kubernetes and Ansible</li>
-    <li>✨My portfolio: <a href="https://fleeforezz.site" target="_blank">fleeforezz.me</a> </li>
+    <li>✨My portfolio: <a href="https://fleeforezz.site" target="_blank">fleeforezz.site</a> </li>
     <li>I💖🐈s</li>
     <li>📫How to reach me: </li>
     <a href="https://www.facebook.com/profile.php?id=100091778170480" target="_blank">
@@ -28,7 +28,7 @@ This is the place where i store my source code🗃️
 <br></br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx,java" />
   </a>
 </p>
 
