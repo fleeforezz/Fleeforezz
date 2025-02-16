@@ -43,6 +43,31 @@ This is the place where i store my source code🗃️
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/02/2025 18:42:02 UTC
+```text
+🌞 Morning                248 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌆 Daytime                440 commits         ██████████░░░░░░░░░░░░░░░   41.28 % 
+🌃 Evening                350 commits         ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/02/2025 18:42:26 UTC
 <!--END_SECTION:waka-->
