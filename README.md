@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/3d35bf55-de73-4bdf-87d4-f222db8eb823" />
 # Hi There👋
 
 This is the place where all the magics happen🧙‍♂️
