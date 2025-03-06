@@ -1,6 +1,6 @@
 # Hi There👋
 
-This is the place where i store my source code🗃️
+This is the place where all the magics happen🧙‍♂️
 <ul>
     <li>🔭I'm currently working on Melville project, an online reading website.</li>
     <li>🌿SpringBoot and ReactJS are currently in my learning list.</li>
