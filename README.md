@@ -2,9 +2,9 @@
 
 This is the place where i store my source code🗃️
 <ul>
-    <li>🔭I'm currently working on Devops projects</li>
-    <li>🌿I'm currently learning Kubernetes and Ansible</li>
-    <li>✨My portfolio: <a href="https://fleeforezz.site" target="_blank">fleeforezz.site</a> </li>
+    <li>🔭I'm currently working on Melville project, an online reading website</li>
+    <li>🌿SpringBoot and ReactJS are currently in my learning list</li>
+    <li>✨Check out my work experience: <a href="https://fleeforezz.site" target="_blank">fleeforezz.site</a> </li>
     <li>I💖🐈s</li>
     <li>📫How to reach me: </li>
     <a href="https://www.facebook.com/profile.php?id=100091778170480" target="_blank">
