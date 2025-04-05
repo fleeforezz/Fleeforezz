@@ -39,8 +39,6 @@ This is the place where all the magics happen🧙‍♂️
 
 > 📦 635.6 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -74,5 +72,5 @@ Windows                  51 mins             ███████████�
 ```
 
 
- Last Updated on 04/04/2025 18:47:39 UTC
+ Last Updated on 05/04/2025 18:44:09 UTC
 <!--END_SECTION:waka-->
