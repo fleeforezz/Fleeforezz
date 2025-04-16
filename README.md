@@ -61,15 +61,17 @@ This is the place where all the magics happen🧙‍♂️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   99.48 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          7 mins              █████████████████████████   99.48 % 
+Work_place               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2025 18:48:20 UTC
+ Last Updated on 16/04/2025 18:49:30 UTC
 <!--END_SECTION:waka-->
