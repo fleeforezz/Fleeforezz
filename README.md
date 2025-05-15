@@ -37,9 +37,9 @@ This is the place where all the magics happen🧙‍♂️
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 636.7 kB Used in GitHub's Storage 
+> 📦 641.0 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,10 +50,10 @@ This is the place where all the magics happen🧙‍♂️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                281 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-🌆 Daytime                494 commits         ██████████░░░░░░░░░░░░░░░   41.69 % 
-🌃 Evening                380 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
-🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+🌞 Morning                283 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌆 Daytime                498 commits         ██████████░░░░░░░░░░░░░░░   41.81 % 
+🌃 Evening                380 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 
 
@@ -63,15 +63,15 @@ This is the place where all the magics happen🧙‍♂️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/05/2025 18:46:33 UTC
+ Last Updated on 15/05/2025 18:51:18 UTC
 <!--END_SECTION:waka-->
