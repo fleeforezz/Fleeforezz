@@ -39,6 +39,8 @@ This is the place where all the magics happen🧙‍♂️
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
+> 🏆 505 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -48,9 +50,9 @@ This is the place where all the magics happen🧙‍♂️
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                725 commits         ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-🌆 Daytime                1240 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌃 Evening                962 commits         ████████░░░░░░░░░░░░░░░░░   32.27 % 
+🌞 Morning                725 commits         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+🌆 Daytime                1241 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
+🌃 Evening                962 commits         ████████░░░░░░░░░░░░░░░░░   32.26 % 
 🌙 Night                  54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 
@@ -61,15 +63,15 @@ This is the place where all the magics happen🧙‍♂️
 🕑︎ Time Zone: Asia/Bangkok
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Proxmox-Infrastructure   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/08/2025 18:54:16 UTC
+ Last Updated on 04/08/2025 18:58:25 UTC
 <!--END_SECTION:waka-->
