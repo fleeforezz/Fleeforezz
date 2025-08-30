@@ -39,39 +39,12 @@ This is the place where all the magics happen🧙‍♂️
 
 > 📦 680.9 kB Used in GitHub's Storage 
  > 
-> 🏆 537 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                383 commits         ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-🌆 Daytime                624 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌃 Evening                459 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Portfolio_Main           35 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/08/2025 18:47:14 UTC
+ Last Updated on 30/08/2025 18:46:01 UTC
 <!--END_SECTION:waka-->
