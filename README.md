@@ -5,7 +5,7 @@
 This is the place where all the magics happen🧙‍♂️
 <ul>
     <li>🔭I'm currently working on Melville project, an online reading website.</li>
-    <li>🌿SpringBoot and ReactJS are currently in my learning list.</li>
+    <li>🌿ASP/.NET and ReactJS are currently in my learning list.</li>
     <li>✨Check out my works: <a href="https://fleeforezz.site" target="_blank">fleeforezz.site</a> </li>
     <li>I💖🐈s</li>
     <li>📫How to reach me: </li>
