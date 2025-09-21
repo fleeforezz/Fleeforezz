@@ -1,9 +1,9 @@
 <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%;"/>
 
-# Hi There👋
+# Hi There👋 This is the place where all the magics happen🧙‍♂️
 
-This is the place where all the magics happen🧙‍♂️
-<ul>
+<!--### This is the place where all the magics happen🧙‍♂️-->
+<!--<ul>
     <li>🔭I'm currently working on Melville project, an online reading website.</li>
     <li>🌿ASP/.NET and ReactJS are currently in my learning list.</li>
     <li>✨Check out my works: <a href="https://fleeforezz.site" target="_blank">fleeforezz.site</a> </li>
@@ -21,7 +21,7 @@ This is the place where all the magics happen🧙‍♂️
     <a href="https://fleeforezz.site" target="_blank">
         <img src="https://img.shields.io/badge/🦄 Portfolio-e0e0e0?style=for-the-badge&logo=&logoColor=080A13">
     </a>
-</ul>
+</ul>-->
 
 <div>
 <!--     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" /> -->
