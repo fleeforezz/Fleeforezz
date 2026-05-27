@@ -24,12 +24,12 @@
 </ul>-->
 
 <div>
-<!--     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" /> -->
+    <!-- <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fleeforezz&show_icons=true&theme=radical" /> -->
     <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeforezz&layout=compact&theme=nightowl" />
 </div>
 <br></br>
-<p align="left">
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,terraform,jenkins,gitlab,ansible,grafana,bash,nginx,java" />
   </a>
-</p>
+</p> -->
