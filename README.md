@@ -1,7 +1,5 @@
 <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%;"/>
 
-# Hi There👋 This is the place where all the magics happen🧙‍♂️
-
 <!--### This is the place where all the magics happen🧙‍♂️-->
 <!--<ul>
     <li>🔭I'm currently working on Melville project, an online reading website.</li>
