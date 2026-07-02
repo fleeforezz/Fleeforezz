@@ -1,7 +1,6 @@
 <img src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" style="width: 100%;"/>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <h1>I'm just chillin</h1>
-</div>
+
+<h1 align="center">🌿I'm just chillin🌿</h1>
 
 <!--### This is the place where all the magics happen🧙‍♂️-->
 <!--<ul>
